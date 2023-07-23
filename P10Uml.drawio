@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T09:57:03.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LDo9mNARI4XppaVr_vEl" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T10:01:37.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bhy5zv3i8r7N541g_Kqe" version="21.5.2" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2100" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
         <mxCell id="n5aeBwHTUUPjWI67WGx6-9" value="Consulter le calendrier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="560" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-10" target="n5aeBwHTUUPjWI67WGx6-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-10" value="Fixer un rendez-vous&lt;br&gt;ou évènement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="560" width="120" height="80" as="geometry" />
         </mxCell>
@@ -141,6 +144,15 @@
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-12" value="Consulter les tâches" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-13" target="n5aeBwHTUUPjWI67WGx6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-13" target="n5aeBwHTUUPjWI67WGx6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-13" target="n5aeBwHTUUPjWI67WGx6-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-13" value="Consulter le tableau du bord" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="70" width="120" height="80" as="geometry" />
@@ -151,8 +163,14 @@
         <mxCell id="n5aeBwHTUUPjWI67WGx6-15" value="Déplacer un rendez-vous ou évènement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="670" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-17" target="n5aeBwHTUUPjWI67WGx6-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-17" value="Récupérer mot de passe oublié" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-58" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-18" target="n5aeBwHTUUPjWI67WGx6-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-18" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="110" width="120" height="80" as="geometry" />
@@ -168,6 +186,15 @@
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-1" target="n5aeBwHTUUPjWI67WGx6-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-57" value="Envoyer un email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n5aeBwHTUUPjWI67WGx6-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.723;entryY=0.965;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-5" target="n5aeBwHTUUPjWI67WGx6-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="897" y="582" as="sourcePoint" />
+            <mxPoint x="202" y="138" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
