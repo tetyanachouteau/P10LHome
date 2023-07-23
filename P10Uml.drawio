@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T09:54:57.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KJGkafTWNTxQIm0G00ht" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T09:56:01.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y4utGyXgRynry8LeSHc7" version="21.5.2" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1313" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -110,61 +110,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-2" value="Eléve" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="430" width="30" height="60" as="geometry" />
+          <mxGeometry x="390" y="605" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-3" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-4" value="Ajouter une tache&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-5" value="Ajouter une tache pour un élève" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="760" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-6" value="Consulter la messagerie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="502.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-7" value="Répondre aux messages&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="502.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-8" value="Ajouter un contact" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="592.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-9" value="Consulter le calendrier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-10" value="Fixer un rendez-vous&lt;br&gt;ou évènement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="710" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-11" value="Terminer une tâche&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="690" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-12" value="Consulter les tâches" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-13" value="Consulter le tableau du bord" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-14" value="Annuler un rendez-vous ou évènement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="680" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-15" value="Déplacer un rendez-vous ou évènement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="680" width="120" height="80" as="geometry" />
+          <mxGeometry x="710" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-17" value="Récupérer mot de passe oublié" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-18" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-19" value="Supprimer un contact" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="585" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="687.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-20" value="Sélectionner un contact dans l&#39;historique des conversations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="592.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-21" value="Supprimer une tâche&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="620" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n5aeBwHTUUPjWI67WGx6-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5aeBwHTUUPjWI67WGx6-1" target="n5aeBwHTUUPjWI67WGx6-3">
           <mxGeometry relative="1" as="geometry" />
